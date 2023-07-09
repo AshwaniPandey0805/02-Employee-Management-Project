@@ -1,2 +1,2 @@
 # Django-project
-Empoyees Management Project 
+Empoyees Management Project Using python framework django, HTML, CSS, Bootstrap. 
